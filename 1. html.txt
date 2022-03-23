@@ -1,0 +1,26 @@
+<제목 : 웹기초 HTML과 인터넷>
+
+html 생성후
+chrome 에서
+window - Ctrl + o - 브라우저 바로 열림
+mac - Ctral + l - 브라우저 바로 열림
+
+* tag
+<u></u> : underline - 밑줄
+<strong></strong> : 강조
+<img src="주소" width="너비"> : 이미지 삽입
+<br> : 줄바꿈
+<h1></h1> : 제목태그 (이외에도 h2,h3,h4 등등)
+<li></li> : 목록. ul의 자식.
+<ul></ul> : li의 경계가 필요하기 때문에 같이 씀. li의 부모
+<ol></ol> : 숫자 목록
+<title></title> : 제목
+<!DOCTYPE html> : 구조가 html이라는 것을 선언하는 것
+<html></html> 
+<head></head>
+<body></body>
+<a href="링크주소">단어</a> : 단어에 링크첨부 - 사이트 링크및 .html 형식도 가능함
+
+* web과 internet은 같을까 다를까
+ : 다르다. web은 internet에 소속되어있음. web과 아우르는 다른 것들이 있고 그 모든 것들이 internet에 포함되는 것임. 웹, 카카오톡, 게임등이 인터넷에 속하여 인터넷을 통하여 작동
+
